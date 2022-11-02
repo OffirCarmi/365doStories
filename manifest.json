@@ -1,0 +1,8 @@
+{
+  "short_name": "365doStories",
+  "name": "365 do stories",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#212529",
+  "background_color": "#f8f9fa"
+}
