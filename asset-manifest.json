@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/365doStories/static/css/main.37ad868d.css",
+    "main.css": "/365doStories/static/css/main.366d9cb0.css",
     "main.js": "/365doStories/static/js/main.807f3fe8.js",
     "static/media/Roboto-Medium.ttf": "/365doStories/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Regular.ttf": "/365doStories/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
@@ -9,11 +9,11 @@
     "static/media/Roboto-Light.ttf": "/365doStories/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
     "static/media/365logo.png": "/365doStories/static/media/365logo.c5b0ead34aaf6972a6fd.png",
     "index.html": "/365doStories/index.html",
-    "main.37ad868d.css.map": "/365doStories/static/css/main.37ad868d.css.map",
+    "main.366d9cb0.css.map": "/365doStories/static/css/main.366d9cb0.css.map",
     "main.807f3fe8.js.map": "/365doStories/static/js/main.807f3fe8.js.map"
   },
   "entrypoints": [
-    "static/css/main.37ad868d.css",
+    "static/css/main.366d9cb0.css",
     "static/js/main.807f3fe8.js"
   ]
 }
