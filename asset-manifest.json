@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/365doStories/static/css/main.8b3e346b.css",
-    "main.js": "/365doStories/static/js/main.c4a065a6.js",
+    "main.js": "/365doStories/static/js/main.e100426b.js",
     "static/media/pf-s73-td-10249-01-mockup.jpg": "/365doStories/static/media/pf-s73-td-10249-01-mockup.319c63bc5660378a6639.jpg",
     "static/media/Still 1.jpg": "/365doStories/static/media/Still 1.bf479f4f11bdb90a929d.jpg",
     "static/media/OpenSans-SemiBoldItalic.ttf": "/365doStories/static/media/OpenSans-SemiBoldItalic.3cddcd62e2a5d4bb004e.ttf",
@@ -15,10 +15,10 @@
     "static/media/365logo.png": "/365doStories/static/media/365logo.c5b0ead34aaf6972a6fd.png",
     "index.html": "/365doStories/index.html",
     "main.8b3e346b.css.map": "/365doStories/static/css/main.8b3e346b.css.map",
-    "main.c4a065a6.js.map": "/365doStories/static/js/main.c4a065a6.js.map"
+    "main.e100426b.js.map": "/365doStories/static/js/main.e100426b.js.map"
   },
   "entrypoints": [
     "static/css/main.8b3e346b.css",
-    "static/js/main.c4a065a6.js"
+    "static/js/main.e100426b.js"
   ]
 }
